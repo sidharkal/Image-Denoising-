@@ -1,1 +1,1 @@
-# Image-Denoising
+# Denoising Dirty Documents
